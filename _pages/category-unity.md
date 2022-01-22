@@ -1,6 +1,6 @@
 ---
 title: "unity posts"
-layout: categories
+layout: posts
 permalink: /unity/
 author_profile: true
 ---
