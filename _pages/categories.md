@@ -1,7 +1,7 @@
 # category-archive.md
 ---
 title: "Posts by Category"
-layout: archive
+layout: categories
 permalink: /categories/
 author_profile: true
 ---
