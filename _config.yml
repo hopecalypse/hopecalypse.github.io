@@ -105,7 +105,7 @@ author:
   name             : "sdev"
   avatar           : "/assets/images/squid-1 (1).png"    # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "de**v lo**g."
-  location         : "Somewhere"
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
