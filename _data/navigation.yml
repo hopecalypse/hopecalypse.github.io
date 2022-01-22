@@ -9,9 +9,13 @@ sidebar:
     children:
       - title: "unity"
         url: /unity/
+        category: "unity"
       - title: "cpp"
         url: /cpp/
+        category: "cpp"
       - title: "unreal"
         url: /unreal/
+        category: "unreal"
       - title: "etc"
         url: /etc/
+        category: "etc"
