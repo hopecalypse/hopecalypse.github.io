@@ -1,7 +1,7 @@
 ---
-title: "cpp "
-layout: archive
-permalink: categories/cpp
+title: "cpp"
+permalink: /categories/cpp/
+layout: category
 author_profile: true
 sidebar_main: true
 ---
