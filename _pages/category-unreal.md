@@ -1,6 +1,6 @@
 ---
-title: "etc-categories"
+title: "unreal posts"
 layout: categories
-permalink: /etc/
+permalink: /unreal/
 author_profile: true
 ---
