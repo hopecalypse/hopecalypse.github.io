@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "sdev"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/squid-1 (1).png"    # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "de**v lo**g."
   location         : "Somewhere"
   email            :
@@ -284,7 +284,22 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
+      sidebar:
+        nav: "sidebar"
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: false
+      related: true
+      sidebar:
+        nav: "sidebar"
