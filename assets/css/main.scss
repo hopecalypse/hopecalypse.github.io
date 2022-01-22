@@ -8,30 +8,30 @@
 @import "minimal-mistakes"; // main partials
 
 // Font 변경
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+//@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 //@import url('https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css');
 
 // 폰트 설정
-$serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
-$sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+//$serif              : "Inconsolata", monospace, "PT Serif", Georgia, Times, serif;
+//$sans-serif-narrow  : "Inconsolata", monospace, "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-$global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
-$caption-font-family: $serif !default;
+//$global-font-family : $serif;
+//$header-font-family : $sans-serif-narrow;
+//$caption-font-family: $serif !default;
 
 // 폰트 크기 설정
 
-html {
-    font-size: 12px; // originally 16px
-    @include breakpoint($medium) {
-        font-size: 14px; // originally 18px
-    }
+//html {
+//    font-size: 12px; // originally 16px
+//    @include breakpoint($medium) {
+//        font-size: 14px; // originally 18px
+//    }
 
-    @include breakpoint($large) {
-        font-size: 16px; // originally 20px
-    }
+  //  @include breakpoint($large) {
+//        font-size: 16px; // originally 20px
+//    }
 
-    @include breakpoint($x-large) {
-        font-size: 18px; // originally 22px
-    }
-}
+//    @include breakpoint($x-large) {
+//        font-size: 18px; // originally 22px
+//    }
+//}
