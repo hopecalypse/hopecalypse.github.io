@@ -14,8 +14,6 @@ category: unreal
 예를 들어 포트나이트에서 위젯 간 전환, 마스터 서버 쿼리 등은 GameInstance를 통해 이루어지지만 PVP방에 참가하여 게임을 진행하면 그 모드에 맞는 GameMode와 GameState가 새로 생성된다.
 
 
-
-
 ### 그렇다면 GameInstance는
 
 GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지되는 클래스로 GameMode, PlayerController와 같이 런타임 내에서 제거될 수 있는 인스턴스를 초월하여 데이터를 저장해야 할 때 이 곳에 데이터를 배치한다.
@@ -23,5 +21,5 @@ GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지�
 
 소스: https://forums.unrealengine.com/t/whats-the-deferent-between-gamestate-and-game-instance/310378
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk2MDU3NjMsMTg1MTk0NDU2NV19
+eyJoaXN0b3J5IjpbLTEzODE2MzU4NzksMTg1MTk0NDU2NV19
 -->
