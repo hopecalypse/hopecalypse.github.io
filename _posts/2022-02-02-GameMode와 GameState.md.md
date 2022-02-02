@@ -9,10 +9,12 @@ category: unreal
 
 싱글 플레이 게임을 만드는 경우 GameState를 무시할 수 있다.
 
+### 기본 개념
 
+GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지되는 클래스로 GameMode, PlayerController와 같이 ㄹ
 
 
 소스: https://forums.unrealengine.com/t/whats-the-deferent-between-gamestate-and-game-instance/310378
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTQ0OTU2NV19
+eyJoaXN0b3J5IjpbMTQ5NTIwMjYzMV19
 -->
