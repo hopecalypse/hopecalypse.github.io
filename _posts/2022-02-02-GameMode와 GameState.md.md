@@ -20,6 +20,9 @@ GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지�
 
 
 소스: https://forums.unrealengine.com/t/whats-the-deferent-between-gamestate-and-game-instance/310378
+
+문서: https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE2MzU4NzksMTg1MTk0NDU2NV19
+eyJoaXN0b3J5IjpbLTQ2MzE2ODE2LC0xMzgxNjM1ODc5LDE4NT
+E5NDQ1NjVdfQ==
 -->
