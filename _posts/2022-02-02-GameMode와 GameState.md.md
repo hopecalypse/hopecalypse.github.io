@@ -13,12 +13,13 @@ category: unreal
 
 
 
-### 기본 개념
+
+### 그렇다면 GameInstance는
 
 GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지되는 클래스로 GameMode, PlayerController와 같이 런타임 내에서 제거될 수 있는 인스턴스를 초월하여 데이터를 저장해야 할 때 이 곳에 데이터를 배치한다.
 
 
 소스: https://forums.unrealengine.com/t/whats-the-deferent-between-gamestate-and-game-instance/310378
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTk0NDU2NV19
+eyJoaXN0b3J5IjpbMTM3MzM1MTIyMywxODUxOTQ0NTY1XX0=
 -->
