@@ -11,6 +11,8 @@ category: unreal
 
 싱글 플레이 게임을 만드는 경우 GameState를 무시할 수 있다.
 
+예를 들어 포트나이트에서 위젯 간 전환, 마스터 서버 쿼리 등은 GameInstance를 통해 이루어지지만 PVP방에 참가하여 게임을 진행하면 그 모드에 맞는 GameMode와 GameState가 새로 생성된다.
+
 
 
 
@@ -21,5 +23,5 @@ GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지�
 
 소스: https://forums.unrealengine.com/t/whats-the-deferent-between-gamestate-and-game-instance/310378
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzM1MTIyMywxODUxOTQ0NTY1XX0=
+eyJoaXN0b3J5IjpbLTE3NTk2MDU3NjMsMTg1MTk0NDU2NV19
 -->
