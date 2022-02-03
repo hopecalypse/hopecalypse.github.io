@@ -12,12 +12,12 @@ category: unreal
 
 <br/>
 
-플레이어 컨트롤러는 직접적으로 
+플레이어 컨트롤러는 직접적으로 플레이어 캐릭터와 연결되지 않는다. 두 클래스는 독립적으로 존재하며, 플레이어 컨트롤러는 알아서 캐릭터의 위에서 동작한다. 폰이나 캐릭터는 지금 어떤 컨트롤러에게 입력을 전달받는지 알 필요가 없다.
 
 
 
-<br/>
+<br/><br/><br/>
 참고: https://forums.unrealengine.com/t/how-to-use-the-player-controller-class-in-c/370128
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjY1MjU1LDE4Mzg4Njc5NjBdfQ==
+eyJoaXN0b3J5IjpbLTQzODc4OTQxNCwxODM4ODY3OTYwXX0=
 -->
