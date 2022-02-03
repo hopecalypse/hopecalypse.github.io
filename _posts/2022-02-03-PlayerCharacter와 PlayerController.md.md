@@ -12,10 +12,12 @@ category: unreal
 
 <br/>
 
+플레이어 컨트롤러는 직접적으로 
 
 
 
+<br/>
 참고: https://forums.unrealengine.com/t/how-to-use-the-player-controller-class-in-c/370128
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzAzNDQ4MSwxODM4ODY3OTYwXX0=
+eyJoaXN0b3J5IjpbLTcxMjY1MjU1LDE4Mzg4Njc5NjBdfQ==
 -->
