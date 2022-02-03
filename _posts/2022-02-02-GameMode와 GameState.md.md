@@ -18,6 +18,9 @@ category: unreal
 
 GameInstance는 게임이 레벨 전환, 게임 모드 전환 시에도 유지되는 클래스로 GameMode, PlayerController와 같이 런타임 내에서 제거될 수 있는 인스턴스를 초월하여 데이터를 저장해야 할 때 이 곳에 데이터를 배치한다.
 
+#
+#
+
 
 ### 공식 문서
 **GameMode**
@@ -37,6 +40,6 @@ GameState 에는 접속된 플레이어 목록, 점수, 체크 게임에서 말�
 
 문서: https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Framework/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ0NjUxMjUsLTEzODE2MzU4NzksMT
-g1MTk0NDU2NV19
+eyJoaXN0b3J5IjpbNjIwMDcwNDEzLC0xMjY0NDY1MTI1LC0xMz
+gxNjM1ODc5LDE4NTE5NDQ1NjVdfQ==
 -->
