@@ -12,12 +12,13 @@ category: unreal
 
 <br/>
 
-플레이어 컨트롤러는 직접적으로 플레이어 캐릭터와 연결되지 않는다. 두 클래스는 독립적으로 존재하며, 플레이어 컨트롤러는 알아서 캐릭터의 위에서 동작한다. 폰이나 캐릭터는 지금 어떤 컨트롤러에게 입력을 전달받는지 알 필요가 없다. 단지 입력값대로 움직이기만 할 뿐이다.
+플레이어 컨트롤러는 직접적으로 플레이어 캐릭터와 연결되지 않는다. 두 클래스는 독립적으로 존재하며, 플레이어 컨트롤러는 알아서 캐릭터의 위에서 동작한다. 폰이나 캐릭터는 지금 어떤 컨트롤러에게 입력을 전달받는지 알 필요가 없다. 단지 입력값대로 움직이기만 하는 Pawn일 뿐이다.
 
+따라서 플레이어 컨트롤러를 사용할 때 입력을 받는 함수나 폰을 따로 지정해줄 필요가 없으며, Raw하게 입력을 꺼버리거나 다른 플레이어와 구별되는 데이터를 저장해야 할 때 사용하면 좋을 것 같다.
 
 
 <br/><br/><br/>
 참고: https://forums.unrealengine.com/t/how-to-use-the-player-controller-class-in-c/370128
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMjY2MDk5LDE4Mzg4Njc5NjBdfQ==
+eyJoaXN0b3J5IjpbLTE3OTE1OTE2NTMsMTgzODg2Nzk2MF19
 -->
