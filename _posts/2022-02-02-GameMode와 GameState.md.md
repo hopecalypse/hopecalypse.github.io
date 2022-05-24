@@ -1,7 +1,7 @@
 ---
 title: "GameMode와 GameState의 차이점"
 excerpt: "GameMode와 GameState의 차이점 정리"
-category: unreal
+category: Unreal Engine
 ---
 
 ### 서버 - 클라이언트 관계에서의 역할

@@ -5,17 +5,19 @@ main:
 
 # 좌측 사이드바
 sidebar:
-  - title: Categories
+  - title: Game
     children:
-      - title: "unity"
-        url: /unity/
-        category: "unity"
-      - title: "cpp"
-        url: /cpp/
-        category: "cpp"
-      - title: "unreal"
+      - title: "Unreal Engine"
         url: /unreal/
-        category: "unreal"
-      - title: "etc"
+        category: "Unreal Engine"
+      - title: "ETC"
         url: /etc/
-        category: "etc"
+        category: "ETC"
+  - title: Study
+    children:
+      - title: "컴퓨터 구조"
+        url: /CA/
+        category: "Computer Architecture"
+      - title: "운영체제"
+        url: /OS/
+        category: "Operatin System"
