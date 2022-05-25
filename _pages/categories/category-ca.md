@@ -1,6 +1,6 @@
 ---
-title: "unity posts"
+title: "Computer Architecture"
 layout: categories
-permalink: /unity/
+permalink: /ca/
 author_profile: true
 ---

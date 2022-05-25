@@ -1,6 +1,6 @@
 ---
-title: "cpp posts"
+title: "Operating System"
 layout: categories
-permalink: /cpp/
+permalink: /os/
 author_profile: true
 ---
